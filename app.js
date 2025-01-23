@@ -78,7 +78,7 @@ function reiniciarJogo() {
 
 function exibirMensagemInicial() {
     exibirTextNaTela('h1', 'Jogo do numero secreto');
-    exibirTextNaTela('p', 'Escolha um número entre 1 e 10');
+    exibirTextNaTela('p', 'Escolha um número entre 1 e 100');
 }
 
 reiniciarJogo();
